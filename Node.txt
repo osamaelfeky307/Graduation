@@ -1,0 +1,18 @@
+1- react js 
+	a- https://www.youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn
+	b- jonas course but it's not for free
+2- node js
+	a- https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2 
+		i see it the perfect chooese to understand how to deal with node and understand node js from root.
+	b- jonas course and it's not for free too ( udemy ) 
+3- API
+	a- elzero web school have a good course 
+	b- ( codeZone is talk about it inside nodejs course ) 
+	c- ( jonas talk too about it ).
+-----------------------------------------------------------------------------------
+edit context
+1- appointment in radiology center
+
+-----------------------------------------------------------------------------------
+1- make one table for appointment 
+the tabel have col called type ( guest or patient ).
